@@ -7,23 +7,25 @@ header:
   - text: <span class="iconify" data-icon="tabler:brand-telegram"></span> dnm_t
     link: https://t.me/dnm_t
   - text: <span class="iconify" data-icon="ic:outline-location-on"></span> Москва
-    newLine: true
 ---
 
-## Профиль
 &nbsp;
+## Профиль
 
-Инженер-разработчик с 18+-летним опытом в области медиасистем и видеообработки, из них 13+ лет совмещаю техническое руководство с  непосредственным участием в разработке.
+<img src="https://raw.githubusercontent.com/tchoomak/cv/2e0d5d40433c89db8df09db4247215f97a548dab/selfie-202602.png" align="left" style="margin-right: 10px" >
 
-Специализация: кроссплатформенные C++/Qt приложения, медиастриминг (CCTV/IPTV/OTT), DRM, транскодинг.
+Инженер-разработчик с 18+-летним опытом в области медиасистем и видеообработки.
+
+Из них 13+ лет совмещаю техническое руководство с  непосредственным участием в разработке.
+
+Специализация: медиастриминг, кроссплатформенные сервисы и приложения, транскодинг, системы CCTV/VSS, IPTV/OTT, DRM.
 
 Опыт доведения продуктов от прототипа до промышленной эксплуатации в высоконагруженных средах.
 
-Сертифицированный партнёр Widevine. 
+Сертифицированный партнёр Widevine.
 
 &nbsp;
 ## Образование
-&nbsp;
 
 **РГРТА, Рязанская Государственная Радиотехническая Академия**  
 ~ <span style="color:#377BB5">Рязань</span> | 2000 - 2005
@@ -32,7 +34,6 @@ header:
 
 &nbsp;
 ## Сертификация
-&nbsp;
 
 **Widevine Modular DRM**
   ~ <span style="color:#377BB5">Kirkland, WA, US</span> | 2015
@@ -48,7 +49,6 @@ Certified Widevine Implementation Partner
 
 &nbsp;
 ## Опыт
-&nbsp;
 
 **Руководитель отдела разработки медиарешений**
   ~ <span style="color:#377BB5">Netris</span> | 2012 - настоящее время
@@ -81,6 +81,7 @@ Certified Widevine Implementation Partner
 
 &nbsp;
 ## Навыки
+
 - C++ 17, Java, QML, SQL, XML/XSLT/XPath/DOM/SAX
 - Qt 6, STL, boost, NDK, JNI, ffmpeg, Intel MediaSDK, Widevine
 - RTSP, HLS, DASH, RTMP, AMQP, RMQ, TCP, UDP, IP, MPEG-TS, H.264, HEVC
@@ -90,7 +91,6 @@ Certified Widevine Implementation Partner
 
 &nbsp;
 ## Языки
-&nbsp;
 
 Русский - родной
 
@@ -98,6 +98,5 @@ Certified Widevine Implementation Partner
 
 &nbsp;
 ## Интересы
-&nbsp;
 
 WebAssembly, Rust, Zig, Homelab
