@@ -20,8 +20,8 @@ Specialization: media streaming, cross-platform services and applications, trans
 Proven track record of delivering products from prototype to productionin high-load environments.
 Certified Widevine Implementation Partner.
 
-## Education
 &nbsp;
+## Education
 
 **RSREA, Ryazan State Radio Engineering Academy**
   ~ <span style="color:#377BB5">Ryazan, RU</span> | 2000 - 2005
@@ -30,7 +30,7 @@ Engineer's degree, Information Systems and Technologies
 
 &nbsp;
 ## Certification
-&nbsp;
+
 
 **Widevine Modular DRM**
   ~ <span style="color:#377BB5">Kirkland, WA, US</span> | 2015
@@ -46,7 +46,6 @@ Certified Widevine Implementation Partner
 
 &nbsp;
 ## Experience
-&nbsp;
 
 **Head of Media Solutions Development**
   ~ <span style="color:#377BB5">Netris</span> | 2012 - Present
