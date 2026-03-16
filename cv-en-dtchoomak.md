@@ -3,12 +3,22 @@ name: Dmitry Tchoomak
 header:
   - text: <span class="iconify" data-icon="tabler:phone"></span> +7(917) 595-26-46
   - text: <span class="iconify" data-icon="tabler:mail"></span> dmitry.tch@gmail.com
-    link: mailto:dtchoomak@yandex.ru
+    link: mailto:dmitry.tch@gmail.com
   - text: <span class="iconify" data-icon="tabler:brand-telegram"></span> dnm_t
     link: https://t.me/dnm_t
   - text: <span class="iconify" data-icon="ic:outline-location-on"></span> Moscow, RU
     newLine: true
 ---
+
+&nbsp;
+## Profile
+
+<img src="https://raw.githubusercontent.com/tchoomak/cv/2e0d5d40433c89db8df09db4247215f97a548dab/selfie-202602.png" align="left" style="margin-right: 10px" >
+
+Software engineer with 18+ years of experience in media systems and video processing, including 13+ years combining technical leadership with hands-on development.
+Specialization: media streaming, cross-platform services and applications, transcoding, CCTV/VSS, IPTV/OTT, DRM.
+Proven track record of delivering products from prototype to productionin high-load environments.
+Certified Widevine Implementation Partner.
 
 ## Education
 &nbsp;
@@ -38,63 +48,53 @@ Certified Widevine Implementation Partner
 ## Experience
 &nbsp;
 
-**Head of Department, Media Solution Development**
+**Head of Media Solutions Development**
   ~ <span style="color:#377BB5">Netris</span> | 2012 - Present
-- team management up to 10 developers
-- taking care of effective intercommunication with Rockchip, Amlogic, Arris, Verimatrix, Ericsson, IBM, Cisco, Eltex, Maxima Telecom
-- establishment of partnership - BOE, Huawei, Google
-- development of video system for online information for passengers of Moscow Metropolitan
-- development of crossplatform clients for video surveillance systems as part of the State Program "Safe city"
-- development of IPTV/OTT platform including STB clients for "Kazakhtelecom" JSC
-- development of cluster-based distributed media transcoding system
+- developed a passenger online information video system for the Moscow Metro; in production since 2018
+- led and participated in development of a cross-platform (Linux, Windows, macOS) client for CCTV systems under the "Safe City" state program; in production since 2020
+- led and participated in development of IPTV/OTT services and STB clients; in production since 2013
+- led development of a Digital Signage system based on Android TV
+- built productive collaboration with BOE, Rockchip, Amlogic, Huawei, HikVision, Dahua, Maxima Telecom, Eltex, Google/Widevine, Verimatrix, Ericsson, IBM, Cisco
 
 &nbsp;
 
 **Software Engineer**
   ~ <span style="color:#377BB5">Smartlabs</span> | 2008 - 2012
-- development of media streaming server subsytems like VoD, nPVR, TSTV
-- development of restreamer-transcoder for media content from services like Youtube, BBC, etc
-- development of restreamer-transcoder for video stream from Blackmagic Design SDI-source
+- developed video server subsystems (VoD, nPVR, TSTV) for an IPTV/OTT platform
+- developed a restreamer-transcoder from various sources (YouTube, BBC, Blackmagic Design SDI)
 
 &nbsp;
 
 **Software Engineer**
   ~ <span style="color:#377BB5">Easy Trace Group</span> | 2007 - 2008
-- development of adhesion splitter of vectorized topographical contour lines
-- development of utility for exporting data to GIS
+- developed an adhesion splitter for vectorized topographic contour lines
+- developed a data export utility from a vectorizer to GIS
 
 &nbsp;
 
 **Software Engineer**
   ~ <span style="color:#377BB5">BuisnessInterSoft</span> | 2003 - 2007
-- development of utility for ipmorting data to native XML-based ODBMS from RDMBS
-- development of POS system
+- developed a data import utility from RDBMS into a native XML-based ODBMS
+- developed a POS system
 
 &nbsp;
 ## Skills
-&nbsp;
 
-**Technical**
-- <span class="iconify" data-icon="vscode-icons:file-type-cpp"></span> C++ 14/17, <span class="iconify" data-icon="vscode-icons:file-type-qml"></span> QML, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java SE, <span class="iconify" data-icon="vscode-icons:file-type-c"></span> C, <span class="iconify" data-icon="vscode-icons:file-type-xml"></span> XML/XSLT/XPath/DOM/SAX, <span class="iconify" data-icon="vscode-icons:file-type-sql"></span> SQL
-- Qt 5, STL, NDK, JNI, ffmpeg, Boost, Widevine, Flash, Intel MediaSDK, MFC
-- ADB, RTSP, HLS, DASH, RTMP, TCP, UDP, IP
-- MPEG-TS, H.264, HEVC
-- Linux, Android, Embedded Linux, macOS, Windows
+- C++ 17, Java, QML, SQL, XML/XSLT/XPath/DOM/SAX
+- Qt 6, STL, boost, NDK, JNI, ffmpeg, Intel MediaSDK, Widevine
+- RTSP, HLS, DASH, RTMP, AMQP, RMQ, TCP, UDP, IP, MPEG-TS, H.264, HEVC
+- clang, gdb, sanitizers, Valgrind, GammaRay, clang-tidy, clazy, git, qmake, cmake, bash, jenkins, redmine
+- Linux, Android, macOS, Windows
 - multithreading, networking, IPC, design patterns, OOP, software architecture
-- cmake, bash, ASan, clang-tidy, clazy
-- git, gitlab, jenkins, redmine, jira
-
-&nbsp;
-
-**Professional**
-- leadership, teamwork, effective communication
-- time management, adaptability, self-control
-- problem solving, critical thinking, responsible decision making
 
 &nbsp;
 ## Languages
-&nbsp;
 
 Russian - native
 
 English - B1 intermediate
+
+&nbsp;
+## Interests
+
+WebAssembly, Rust, Zig, Homelab
