@@ -10,6 +10,18 @@ header:
     newLine: true
 ---
 
+## Профиль
+&nbsp;
+
+Инженер-разработчик с 18+-летним опытом в области медиасистем и видеообработки, из них 13+ лет совмещаю техническое руководство с  непосредственным участием в разработке.
+
+Специализация: кроссплатформенные C++/Qt приложения, медиастриминг (CCTV/IPTV/OTT), DRM, транскодинг.
+
+Опыт доведения продуктов от прототипа до промышленной эксплуатации в высоконагруженных средах.
+
+Сертифицированный партнёр Widevine. 
+
+&nbsp;
 ## Образование
 &nbsp;
 
@@ -40,56 +52,41 @@ Certified Widevine Implementation Partner
 
 **Руководитель отдела разработки медиарешений**
   ~ <span style="color:#377BB5">Netris</span> | 2012 - настоящее время
-- управление командой до 10 разработчиков
-- обеспечение эффективного взаимодействия с Rockchip, Amlogic, Arris, Verimatrix, Ericsson, IBM, Cisco, Eltex, Maxima Telecom
-- установление партнёрства - BOE, Huawei, Google
-- разработка видеосистемы онлайн-информирования пассажиров Московского Метрополитена
-- разработка кроссплатформенных клиентов систем видеонаблюдения государственной программы "Безопасный  город"
-- разработка IPTV/OTT платформы, включая STB-клиенты, для АО "Казахтелеком"
-- разработка системы кластерного медиатранскодинга
+- разработал видеосистему онлайн-информирования пассажиров Московского Метрополитена, в эксплуатации с 2018 года
+- руководил и участвовал в разработке кроссплатформенного (Linux, Windows, macOS) клиента систем видеонаблюдения государственной программы "Безопасный город", в эксплуатации с 2020 года
+- руководил и участвовал в разработкой IPTV/OTT сервисов и STB-клиентов, в эксплуатации с 2013 года
+- руководил разработкой Digital Signage системы на базе Android TV
+- выстраивал продуктивное взаимодействие с BOE, Rockchip, Amlogic, Huawei, HikVision, Dahua, Maxima Telecom, Eltex, Google/Widevine, Verimatrix, Ericsson, IBM, Cisco
 
 &nbsp;
 
 **Инженер-разработчик**
   ~ <span style="color:#377BB5">Smartlabs</span> | 2008 - 2012
-- разработка подсистемы видеосервера - VoD, nPVR, TSTV
-- разработка рестримера-траснкодера контента сервисов Youtube, BBC, etc
-- разработка рестримера-траснкодера видеопотока из Blackmagic Design SDI-источника
+- разрабатывал подсистемы видеосервера (VoD, nPVR, TSTV) для IPTV/OTT платформы
+- разработал рестример-транскодер из различных источников (Youtube, BBC, Blackmagic Design SDI)
 
 &nbsp;
 
 **Инженер-разработчик**
   ~ <span style="color:#377BB5">Easy Trace Group</span> | 2007 - 2008
-- разработка сплиттера адгезий векторизованных топографических горизонталей
-- разработка утилиты экспорта данных в ГИС
+- разработал сплиттер адгезий векторизованных топографических горизонталей
+- разработал утилиту экспорта данных из векторизатора в ГИС
 
 &nbsp;
 
 **Инженер-разработчик**
-  ~ <span style="color:#377BB5">BuisnessInterSoft</span> | 2003 - 2007
-- разработка утилиты импорта данных в native XML-based ODBMS из RDBMS
-- разработка POS системы
+  ~ <span style="color:#377BB5">BusinessInterSoft</span> | 2003 - 2007
+- разработал утилиту импорта данных в native XML-based ODBMS из RDBMS
+- разработал POS-систему
 
 &nbsp;
 ## Навыки
-&nbsp;
-
-**Технические**
-- <span class="iconify" data-icon="vscode-icons:file-type-cpp"></span> C++ 14/17, <span class="iconify" data-icon="vscode-icons:file-type-qml"></span> QML, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java SE, <span class="iconify" data-icon="vscode-icons:file-type-c"></span> C, <span class="iconify" data-icon="vscode-icons:file-type-xml"></span> XML/XSLT/XPath/DOM/SAX, <span class="iconify" data-icon="vscode-icons:file-type-sql"></span> SQL
-- Qt 5.15, STL, NDK, JNI, ffmpeg, Boost, Widevine, Flash, Intel MediaSDK, MFC
-- ADB, RTSP, HLS, DASH, RTMP, TCP, UDP, IP
-- MPEG-TS, H.264, HEVC
-- Linux, Android, Embedded Linux, macOS, Windows
+- C++ 17, Java, QML, SQL, XML/XSLT/XPath/DOM/SAX
+- Qt 6, STL, boost, NDK, JNI, ffmpeg, Intel MediaSDK, Widevine
+- RTSP, HLS, DASH, RTMP, AMQP, RMQ, TCP, UDP, IP, MPEG-TS, H.264, HEVC
+- clang, gdb, sanitizers, Valgrind, GammaRay, clang-tidy, clazy, git, qmake, cmake, bash, jenkins, redmine
+- Linux, Android, macOS, Windows
 - multithreading, networking, IPC, design patterns, OOP, software architecture
-- cmake, bash, ASan, clang-tidy, clazy
-- git, gitlab, jenkins, redmine, jira
-
-&nbsp;
-
-**Профессиональные**
-- лидерство, коммандная работа, эффективная коммуникация
-- планирование времени, адаптивность, самоконтроль
-- решение сложных задач, критическое мышление, ответственное принятие решений
 
 &nbsp;
 ## Языки
@@ -98,3 +95,9 @@ Certified Widevine Implementation Partner
 Русский - родной
 
 Английский - B1 intermediate
+
+&nbsp;
+## Интересы
+&nbsp;
+
+WebAssembly, Rust, Zig, Homelab
