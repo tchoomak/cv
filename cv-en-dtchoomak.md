@@ -18,7 +18,7 @@ Software engineer with 18+ years of experience in media systems and video proces
 
 Specialization: media streaming, cross-platform services and applications, transcoding, CCTV/VSS, IPTV/OTT, DRM.
 
-Proven track record of delivering products from prototype to productionin high-load environments.
+Proven track record of delivering products from prototype to production in high-load environments.
 
 Certified Widevine Implementation Partner.
 
@@ -55,7 +55,7 @@ Certified Widevine Implementation Partner
 - led and participated in development of a cross-platform (Linux, Windows, macOS) client for CCTV systems under the "Safe City" state program; in production since 2020
 - led and participated in development of IPTV/OTT services and STB clients; in production since 2013
 - led development of a Digital Signage system based on Android TV
-- built productive collaboration with BOE, Rockchip, Amlogic, Huawei, HikVision, Dahua, Maxima Telecom, Eltex, Google/Widevine, Verimatrix, Ericsson, IBM, Cisco
+- built productive collaboration with BOE, Rockchip, Amlogic, Huawei, Hikvision, Dahua, Maxima Telecom, Eltex, Google/Widevine, Verimatrix, Ericsson, IBM, Cisco
 
 &nbsp;
 
@@ -74,7 +74,7 @@ Certified Widevine Implementation Partner
 &nbsp;
 
 **Software Engineer**
-  ~ <span style="color:#377BB5">BuisnessInterSoft</span> | 2003 - 2007
+  ~ <span style="color:#377BB5">BusinessInterSoft</span> | 2003 - 2007
 - developed a data import utility from RDBMS into a native XML-based ODBMS
 - developed a POS system
 
@@ -82,9 +82,11 @@ Certified Widevine Implementation Partner
 ## Skills
 
 - C++ 17, Java, QML, SQL, XML/XSLT/XPath/DOM/SAX
-- Qt 6, STL, boost, NDK, JNI, ffmpeg, Intel MediaSDK, Widevine
-- RTSP, HLS, DASH, RTMP, AMQP, RMQ, TCP, UDP, IP, MPEG-TS, H.264, HEVC
-- clang, gdb, sanitizers, Valgrind, GammaRay, clang-tidy, clazy, git, qmake, cmake, bash, jenkins, redmine
+- Qt 6, STL, boost, NDK, JNI 
+- ffmpeg, Intel MediaSDK, Widevine, MPEG-TS, H.264, HEVC
+- RTSP, HLS, DASH, RTMP, AMQP, RMQ, TCP, UDP, IP
+- clang, gdb, sanitizers, Valgrind, GammaRay, clang-tidy, clazy
+- cmake, qmake, bash, git, gitlab, jenkins, redmine
 - Linux, Android, macOS, Windows
 - multithreading, networking, IPC, design patterns, OOP, software architecture
 

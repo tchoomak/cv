@@ -56,7 +56,7 @@ Certified Widevine Implementation Partner
 - руководил и участвовал в разработке кроссплатформенного (Linux, Windows, macOS) клиента систем видеонаблюдения государственной программы "Безопасный город", в эксплуатации с 2020 года
 - руководил и участвовал в разработкой IPTV/OTT сервисов и STB-клиентов, в эксплуатации с 2013 года
 - руководил разработкой Digital Signage системы на базе Android TV
-- выстраивал продуктивное взаимодействие с BOE, Rockchip, Amlogic, Huawei, HikVision, Dahua, Maxima Telecom, Eltex, Google/Widevine, Verimatrix, Ericsson, IBM, Cisco
+- выстраивал продуктивное взаимодействие с BOE, Rockchip, Amlogic, Huawei, Hikvision, Dahua, Maxima Telecom, Eltex, Google/Widevine, Verimatrix, Ericsson, IBM, Cisco
 
 &nbsp;
 
