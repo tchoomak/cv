@@ -7,17 +7,19 @@ header:
   - text: <span class="iconify" data-icon="tabler:brand-telegram"></span> dnm_t
     link: https://t.me/dnm_t
   - text: <span class="iconify" data-icon="ic:outline-location-on"></span> Moscow, RU
-    newLine: true
 ---
 
 &nbsp;
 ## Profile
 
-<img src="https://raw.githubusercontent.com/tchoomak/cv/2e0d5d40433c89db8df09db4247215f97a548dab/selfie-202602.png" align="left" style="margin-right: 10px" >
+<img src="https://raw.githubusercontent.com/tchoomak/cv/d2305802f11cb17f938bc1bc5959528af5b90673/selfie-202602.png" align="left" style="margin-right: 10px; max-width: 9%">
 
 Software engineer with 18+ years of experience in media systems and video processing, including 13+ years combining technical leadership with hands-on development.
+
 Specialization: media streaming, cross-platform services and applications, transcoding, CCTV/VSS, IPTV/OTT, DRM.
+
 Proven track record of delivering products from prototype to productionin high-load environments.
+
 Certified Widevine Implementation Partner.
 
 &nbsp;
@@ -96,4 +98,4 @@ English - B1 intermediate
 &nbsp;
 ## Interests
 
-WebAssembly, Rust, Zig, Homelab
+WebAssembly, Rust, Zig, Spring, Homelab

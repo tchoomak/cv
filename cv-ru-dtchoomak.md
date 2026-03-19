@@ -12,7 +12,7 @@ header:
 &nbsp;
 ## Профиль
 
-<img src="https://raw.githubusercontent.com/tchoomak/cv/2e0d5d40433c89db8df09db4247215f97a548dab/selfie-202602.png" align="left" style="margin-right: 10px" >
+<img src="https://raw.githubusercontent.com/tchoomak/cv/d2305802f11cb17f938bc1bc5959528af5b90673/selfie-202602.png" align="left" style="margin-right: 10px">
 
 Инженер-разработчик с 18+-летним опытом в области медиасистем и видеообработки.
 
@@ -99,4 +99,4 @@ Certified Widevine Implementation Partner
 &nbsp;
 ## Интересы
 
-WebAssembly, Rust, Zig, Homelab
+WebAssembly, Rust, Zig, Spring, Homelab
