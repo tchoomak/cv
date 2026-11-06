@@ -4,10 +4,11 @@
   background-color: white;
   color: black;
   text-align: justify;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
+  /* no automatic hyphenation: a keyword split across lines is lost to ATS parsers */
+  -moz-hyphens: manual;
+  -ms-hyphens: manual;
+  -webkit-hyphens: manual;
+  hyphens: manual;
 }
 
 #resume-preview p,
@@ -55,6 +56,8 @@
 #resume-preview ol {
   list-style-type: decimal;
 }
+
+#resume-preview li { text-align: left; }
 
 /* Definition Lists */
 
